@@ -2,5 +2,6 @@
   - type: web
     name: nxtweb
     env: node
+    repo: https://github.com/NoLanSchool/nxtweb
     plan: free
     startCommand: npm install && node index.js
